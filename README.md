@@ -45,4 +45,3 @@ and [`grcov`](https://github.com/mozilla/grcov) tool
 to collect and aggregate code coverage data for multi-platform builds,
 which is pushed to the [coveralls.io](https://coveralls.io/github/actions-rs/example) later.
 line
-line
